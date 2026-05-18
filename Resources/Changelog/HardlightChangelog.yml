@@ -4054,3 +4054,13 @@ Entries:
       message: Beak Bonemask marking
   id: 436
   time: '2026-05-18T18:24:43.0000000+00:00'
+- author: NotLivyathan
+  changes:
+    - type: Tweak
+      message: >-
+        FTL with private shuttles, in addition to being on expedition maps/the
+        ColComm map, all now count towards "arrived at ColComm" objectives,
+        meaning the evac shuttle is no longer the only official way to arrive at
+        ColComm.
+  id: 437
+  time: '2026-05-18T18:31:59.0000000+00:00'
