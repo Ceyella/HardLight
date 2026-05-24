@@ -4234,3 +4234,11 @@ Entries:
   changes: []
   id: 458
   time: '2026-05-24T00:03:59.0000000+00:00'
+- author: SquishyEmmaaaa
+  changes:
+    - type: Remove
+      message: MRE crates are no longer purchasable from cargo.
+    - type: Tweak
+      message: MRE crates are now findable on expeditions.
+  id: 459
+  time: '2026-05-24T00:08:27.0000000+00:00'
