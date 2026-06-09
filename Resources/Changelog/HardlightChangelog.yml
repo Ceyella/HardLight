@@ -4600,3 +4600,11 @@ Entries:
       message: Fixed ghosts blocking ships from saving
   id: 488
   time: '2026-06-09T18:00:02.0000000+00:00'
+- author: FieryTech
+  changes:
+    - type: Fix
+      message: (Amber Station) CDETs now are fully enclosed.
+    - type: Fix
+      message: (Amber Station) Medical bay lights switched from LED to normal lights.
+  id: 489
+  time: '2026-06-09T18:00:24.0000000+00:00'
