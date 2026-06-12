@@ -4714,3 +4714,9 @@ Entries:
       message: Cybersun R&D Cloak
   id: 503
   time: '2026-06-12T22:21:31.0000000+00:00'
+- author: fenndragon
+  changes:
+    - type: Fix
+      message: Fixed dragon breath
+  id: 504
+  time: '2026-06-12T22:21:49.0000000+00:00'
