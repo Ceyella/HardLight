@@ -4720,3 +4720,13 @@ Entries:
       message: Fixed dragon breath
   id: 504
   time: '2026-06-12T22:21:49.0000000+00:00'
+- author: re-silvered
+  changes:
+    - type: Tweak
+      message: Adjusted the tintreach's blunt damage from 65 -> 30, a 54% reduction
+    - type: Tweak
+      message: >-
+        Adjusted the tintreach's structural damage from 300 -> 200 when wielded,
+        a 33% reduction
+  id: 505
+  time: '2026-06-12T22:45:42.0000000+00:00'
