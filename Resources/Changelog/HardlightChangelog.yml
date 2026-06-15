@@ -4764,3 +4764,9 @@ Entries:
       message: New xenoborg mothership mapping, for all your assimilation needs.
   id: 510
   time: '2026-06-15T23:33:45.0000000+00:00'
+- author: Typheus
+  changes:
+    - type: Tweak
+      message: Ship AIs have comms restricted from Command and Security
+  id: 511
+  time: '2026-06-15T23:34:19.0000000+00:00'
