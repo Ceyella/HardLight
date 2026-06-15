@@ -4730,3 +4730,9 @@ Entries:
         a 33% reduction
   id: 505
   time: '2026-06-12T22:45:42.0000000+00:00'
+- author: re-silvered
+  changes:
+    - type: Tweak
+      message: Syndicate expedition npcs no longer death rattle alert.
+  id: 506
+  time: '2026-06-15T23:25:22.0000000+00:00'
