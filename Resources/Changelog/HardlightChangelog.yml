@@ -4793,3 +4793,9 @@ Entries:
       message: Added a Scandinavian Accent
   id: 513
   time: '2026-06-15T23:35:47.0000000+00:00'
+- author: okdamsam
+  changes:
+    - type: Add
+      message: Slow ooc admin command
+  id: 514
+  time: '2026-06-15T23:36:15.0000000+00:00'
