@@ -4816,3 +4816,17 @@ Entries:
         them
   id: 515
   time: '2026-06-16T00:12:26.0000000+00:00'
+- author: Shades
+  changes:
+    - type: Add
+      message: >-
+        NullSpace Fixes, Stability Returns, Brighteye are now back with their
+        previous abilities and balanced correctly.
+    - type: Tweak
+      message: >-
+        Security tools related to nullspace entities has been tweaked, check
+        uplink for more details.
+    - type: Add
+      message: Added back PhaseNoms, The Dark, ShadeGen.
+  id: 516
+  time: '2026-06-16T01:49:01.0000000+00:00'
