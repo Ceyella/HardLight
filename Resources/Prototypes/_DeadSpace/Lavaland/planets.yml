@@ -1,9 +1,9 @@
-- type: lavalandPlanet
-  id: Lavaland
-  biome: LavalandSurface
-  mapName: Lavaland
-  lightColor: "#A34931"
-  mapHalfSize: 350
+#- type: lavalandPlanet
+ # id: Lavaland
+ # biome: LavalandSurface
+ # mapName: Lavaland
+ # lightColor: "#A34931"
+  #mapHalfSize: 350
   # landingPadRadius: 24
   # landingPadTile: FloorBasalt
   # terminalReservationEnabled: true
