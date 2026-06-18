@@ -1,10 +1,10 @@
-using Robust.Shared.Prototypes;
+//using Robust.Shared.Prototypes;
 
-namespace Content.Shared.DeadSpace.Lavaland.Bosses;
+//namespace Content.Shared.DeadSpace.Lavaland.Bosses;
 
-[Prototype]
-public sealed partial class LavalandBossArenaPrototype : IPrototype
-{
+//[Prototype]
+//public sealed partial class LavalandBossArenaPrototype : IPrototype
+//{
     /* [IdDataField]
     public string ID { get; private set; } = default!;
 
@@ -76,4 +76,4 @@ public sealed partial class LavalandBossArenaPrototype : IPrototype
 
     [DataField]
     public float EmptyResetMinHeal; */
-}
+//}

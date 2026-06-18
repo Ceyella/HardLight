@@ -1,20 +1,20 @@
-using System.Numerics;
-using Content.Shared.Atmos;
-using Content.Shared.DeadSpace.Lavaland.Bosses;
-using Content.Shared.Damage;
-using Content.Shared.Parallax.Biomes;
-using Content.Shared.Parallax.Biomes.Markers;
-using Content.Shared.Procedural;
-using Content.Shared.Weather;
-using Content.Shared.Whitelist;
-using Robust.Shared.Prototypes;
-using Robust.Shared.Utility;
+//using System.Numerics;
+//using Content.Shared.Atmos;
+//using Content.Shared.DeadSpace.Lavaland.Bosses;
+//using Content.Shared.Damage;
+//using Content.Shared.Parallax.Biomes;
+//using Content.Shared.Parallax.Biomes.Markers;
+//using Content.Shared.Procedural;
+//using Content.Shared.Weather;
+//using Content.Shared.Whitelist;
+//using Robust.Shared.Prototypes;
+//using Robust.Shared.Utility;
 
-namespace Content.Shared.DeadSpace.Lavaland;
+//namespace Content.Shared.DeadSpace.Lavaland;
 
-[Prototype]
-public sealed partial class LavalandPlanetPrototype : IPrototype
-{
+//[Prototype]
+//public sealed partial class LavalandPlanetPrototype : IPrototype
+//{
     /* [IdDataField]
     public string ID { get; private set; } = default!;
 
@@ -237,11 +237,11 @@ public sealed partial class LavalandPlanetPrototype : IPrototype
             { "Heat", 4.0f },
         },
     }; */
-}
+//}
 
-[DataDefinition]
-public sealed partial class LavalandFaunaSpawnEntry
-{
+//[DataDefinition]
+//public sealed partial class LavalandFaunaSpawnEntry
+//{
     /* [DataField(required: true)]
     public EntProtoId Prototype = default;
 
@@ -250,5 +250,5 @@ public sealed partial class LavalandFaunaSpawnEntry
 
     [DataField]
     public int MaxCount = 8; */
-}
+//}
 
