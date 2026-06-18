@@ -5,7 +5,7 @@ namespace Content.Shared.DeadSpace.Lavaland.Bosses;
 [Prototype]
 public sealed partial class LavalandBossArenaPrototype : IPrototype
 {
-    [IdDataField]
+    /* [IdDataField]
     public string ID { get; private set; } = default!;
 
     [DataField(required: true)]
@@ -75,5 +75,5 @@ public sealed partial class LavalandBossArenaPrototype : IPrototype
     public float EmptyResetHealFraction = 1f;
 
     [DataField]
-    public float EmptyResetMinHeal;
+    public float EmptyResetMinHeal; */
 }

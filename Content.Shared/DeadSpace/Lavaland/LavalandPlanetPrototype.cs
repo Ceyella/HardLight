@@ -15,7 +15,7 @@ namespace Content.Shared.DeadSpace.Lavaland;
 [Prototype]
 public sealed partial class LavalandPlanetPrototype : IPrototype
 {
-    [IdDataField]
+    /* [IdDataField]
     public string ID { get; private set; } = default!;
 
     [DataField(required: true)]
@@ -236,19 +236,19 @@ public sealed partial class LavalandPlanetPrototype : IPrototype
         {
             { "Heat", 4.0f },
         },
-    };
+    }; */
 }
 
 [DataDefinition]
 public sealed partial class LavalandFaunaSpawnEntry
 {
-    [DataField(required: true)]
+    /* [DataField(required: true)]
     public EntProtoId Prototype = default;
 
     [DataField]
     public int Weight = 1;
 
     [DataField]
-    public int MaxCount = 8;
+    public int MaxCount = 8; */
 }
 
