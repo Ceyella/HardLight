@@ -4856,3 +4856,17 @@ Entries:
       message: Reduced the bluespace stash max size capacity from Ginormous to Huge
   id: 520
   time: '2026-06-18T09:51:38.0000000+00:00'
+- author: Shades
+  changes:
+    - type: Fix
+      message: Light Sensitivity Trait having a error icon.
+    - type: Fix
+      message: TheDark deleted itself on server cleanup.
+    - type: Fix
+      message: Fixed Phase Effect Sprite Size not getting affected.
+    - type: Fix
+      message: NullSpace Locator not working.
+    - type: Fix
+      message: NullSpacePuller not stopping the pulling action correctly.
+  id: 521
+  time: '2026-06-18T10:54:54.0000000+00:00'
