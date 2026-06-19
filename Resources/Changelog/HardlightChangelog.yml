@@ -4920,3 +4920,11 @@ Entries:
         loaded. Previously-saved ships are repaired automatically on load.
   id: 528
   time: '2026-06-19T09:44:29.0000000+00:00'
+- author: IngvarJackal
+  changes:
+    - type: Fix
+      message: >-
+        Light sensitivity traits no longer burn you in light levels they
+        shouldn't.
+  id: 529
+  time: '2026-06-19T09:44:43.0000000+00:00'
