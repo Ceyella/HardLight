@@ -42,6 +42,13 @@
   name: K4T-ENG-alt
   spritePath: _HL/Mobs/Silicon/Borg/Engineering/k4t_alt_engi.rsi
 
+  - type: borgSubtype
+  parent: BorgEngineerSubtypeBase
+  id: BorgEngineerSubtypesfmekaFreelancer
+  dummyPrototype: BorgChassisEngineerfmekaFreelancer
+  name: Meka-Freelancer
+  spritePath: _HL/Mobs/Silicon/Borg/Cargo/sfmeka_Freelancer.rsi
+
 # region generic
 
 - type: borgSubtype
@@ -107,6 +114,13 @@
   dummyPrototype: BorgChassisGenericK4tPeace
   name: K4T-PCE
   spritePath: _HL/Mobs/Silicon/Borg/Peace/k4t_peace.rsi
+
+  - type: borgSubtype
+  parent: BorgGenericSubtypeBase
+  id: BorgGenericSubtypefmekaFreelancer
+  dummyPrototype: BorgChassisGenericfmekaFreelancer
+  name: Meka-Freelancer
+  spritePath: _HL/Mobs/Silicon/Borg/Peace/sfmeka_Freelancer.rsi
 
 # region janitor
 
@@ -188,6 +202,13 @@
   dummyPrototype: BorgChassisMedicalK4tAlt
   name: K4T-MED-alt
   spritePath: _HL/Mobs/Silicon/Borg/Medical/k4t_alt_med.rsi
+
+  - type: borgSubtype
+  parent: BorgMedicalSubtypeBase
+  id: BorgMedicalSubtypefmekaFreelancer
+  dummyPrototype: BorgChassisMedicalfmekaFreelancer
+  name: Meka-Freelancer
+  spritePath: _HL/Mobs/Silicon/Borg/Medical/sfmeka_Freelancer.rsi
 
 # region mining
 
@@ -277,6 +298,13 @@
   name: K4T-CRG-alt
   spritePath: _HL/Mobs/Silicon/Borg/Cargo/k4t_cargo_alt.rsi # WHY IS THIS ONE NAMED THE OTHER WAY AROUND. WHY!!
 
+  - type: borgSubtype
+  parent: BorgMiningSubtypeBase
+  id: BorgMiningSubtypefmekaFreelancer
+  dummyPrototype: BorgChassisMiningfmekaFreelancer
+  name: Meka-Freelancer
+  spritePath: _HL/Mobs/Silicon/Borg/Mining/sfmeka_Freelancer.rsi
+
 # region security
 
 - type: borgSubtype
@@ -335,6 +363,13 @@
   name: K4T-SYN
   spritePath: _HL/Mobs/Silicon/Borg/Syndicate/k4t_syndie.rsi
 
+  - type: borgSubtype
+  parent: BorgSecuritySubtypeBase
+  id: BorgSecuritySubtypefmekaFreelancer
+  dummyPrototype: BorgChassisSecurityfmekaFreelancer
+  name: Meka-Freelancer
+  spritePath: _HL/Mobs/Silicon/Borg/Security/sfmeka_Freelancer.rsi
+
 # region service
 
 - type: borgSubtype
@@ -392,6 +427,13 @@
   dummyPrototype: BorgChassisServiceK4tAlt2
   name: K4T-SRV-alt-2
   spritePath: _HL/Mobs/Silicon/Borg/Service/k4t_alt2_service.rsi
+
+  - type: borgSubtype
+  parent: BorgServiceSubtypeBase
+  id: BorgServiceSubtypefmekaFreelancer
+  dummyPrototype: BorgChassisServicefmekaFreelancer
+  name: Meka-Freelancer
+  spritePath: _HL/Mobs/Silicon/Borg/Service/sfmeka_Freelancer.rsi
 
 - type: borgSubtype
   parent: BorgSecuritySubtypeBase
