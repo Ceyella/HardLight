@@ -119,6 +119,7 @@
 #   category: cargoproduct-category-name-fun
 #   group: market
 # End Hardlight
+
 - type: cargoProduct
   id: FunPlushies
   # abstract: true # Frontier
